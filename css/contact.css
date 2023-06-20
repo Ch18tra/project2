@@ -1,0 +1,103 @@
+body{
+      font-size:15px;
+}
+.center-section {
+              width:90%;
+              margin:0 auto;
+}
+.center-section h1 {
+                color:#6c9994;
+                font-size:70px;
+}
+.center-section p {
+              font-size:15px;
+}
+.f1 {
+       width:40%;
+       float:left;
+}
+.f1 input {
+      width:100%;
+      height:30px;
+      border-color:1px solid lightgray;
+}
+.f2 {
+      width:40%;
+      float:left;
+      margin-top:20px;
+      margin-left:30px;
+}
+.f2 input {
+        width:100%;
+        height:30px;
+        border-color:1px solid lightgray;
+        
+}
+
+.email input {
+          width:82%;
+          height:30px;
+          border:1px solid lightgray;
+        
+}
+input {
+         width:82%;
+         height:30px;
+         border:1px solid lightgray;
+}
+textarea{
+        border:1px solid lightgray;
+}
+button {
+        border:1px solid #6c9994;
+        color:#6c9994;
+        padding:10px;
+        border-radius:50px;
+}
+/*  center section finished*/
+
+.c {
+     width:100%;
+     text-align:center;
+}
+.c .fa {
+        padding-right:10px;
+}
+.last-box {
+      width:100%;
+      text-align:center;
+      padding:60px 0px;
+}
+.last-box h2 {
+           color:#6c9994;
+}
+.last-box ul {
+           width:60%;
+           margin:0 auto;
+           font-size:12px;
+           margin-top:30px;
+           
+}
+.last-box ul li {
+       float:left;
+       padding-right:30px;
+       margin-left:100px;
+       list-style: none;
+       
+}
+.last-box button {
+        margin-top:25px;
+}
+.last-box .paragraph {
+       clear:both;
+       margin-top:70px;
+}
+.c1 {
+       width:100%;
+       margin-top:30px;
+       
+}
+.c1 .fa fa-Instagram {
+        
+
+}

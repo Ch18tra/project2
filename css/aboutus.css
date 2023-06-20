@@ -1,0 +1,236 @@
+.short-content{
+        width:70%;
+        margin:0 auto;
+        color:#fff;
+        position: relative;
+        top:50%;
+        line-height:35px;
+        font-size:30px;
+}
+
+.middle {
+         width:70%;
+         margin:0 auto;
+         padding-top:60px;
+}
+.left-portion {
+            width:50%;
+            float:left;
+            font-size:12px;
+            
+
+
+}
+.left-portion p {
+                color:#595959;
+}
+.left-portion .paragraph{
+             color:gray;
+}
+.right-portion {
+          width:50%;
+          float:left;
+}
+.right-portion img {
+              width:70%;
+              border-radius:70%;
+              border:5px solid #6c9994;
+}
+.right-portion .br img {
+              width:30%;
+              position: relative;
+              left:180px;
+              top:-90px;
+
+}
+/* middle finished */
+
+/* six section starts */
+
+.six-section {
+                 width:100%;
+                 background-image: url("../img/green-leaves-bgimage1.png");    
+                 clear:both;
+
+}
+.six-section .three-section {
+            width:90%;
+            margin:0 auto;
+            padding-top:40px;
+}
+.three-section .b1{
+              width:25%;
+              height:70%;
+              background-color: #fff;
+              text-align:center;
+              float:left;
+              margin-left:30px;
+              padding:20px;
+}
+.b1 h4 {
+         margin-top:0px;
+         position:relative;
+         top:-70px;
+         color:#fff;
+}
+.b1 p {
+         font-size:11px;
+}
+.b1 img {
+          width:80%;
+          height:50%;
+          padding:20px;
+}
+
+.three-sectionbox {
+           width:90%;
+           margin:0 auto;
+           clear:both;
+           padding-top:40px;
+           text-align:center;
+}
+.three-sectionbox .b2 {
+            width:25%;
+            height:70%;
+            background-color: #fff;
+            float:left;
+            margin-left:30px;
+            padding:20px;
+            position:relative;
+            top:-20px;
+}
+.b2 img{
+           width:80%;
+           height:50%;
+           padding:20px;
+}
+.b2 h4 {
+        margin-top:0px;
+        position:relative;
+        top:-50px;
+        color:#fff;
+}
+.b2 p {
+         font-size:11px;
+         
+}
+           
+/* six-section finished */
+
+/* small box starts */
+
+.center {
+         width:100%;
+         margin:0 auto;
+         margin-top:60px;
+}
+.small-box {
+          width:50%;
+          height:50px;
+          background-color: #fff;
+          margin:0 auto;
+          margin-bottom:30px;
+          box-shadow:3px 3px lightgray;
+          
+}
+.small-box p {
+        margin-left:10px;
+        float:left;
+}
+.small-box .fa {
+        float:right;
+        margin:20px;
+        color:#fabf98;
+}
+/* small box finished */
+
+/* last-section1 */
+
+.last-section1 {
+            width:100%;
+            margin:0 auto;
+            text-align:center;
+}
+.last-sectionsm {
+           width:50%;
+           margin:0 auto;
+           position:relative;
+           top:200px;
+           z-index:-1;
+}
+.last-sectionsm h4{
+          text-align:left;
+          margin-left:130px;
+          
+}
+.image{
+        width:50%;
+        
+        
+}
+.image img {
+          width:50%;
+          margin-left:25px;
+}
+/* last-section1 finished */
+
+/* form starts */
+
+.form {
+        width:90%;
+        margin:0 auto;
+        text-align:center;
+        background-image: url("../img/client-parallax-scaled-1.jpg");
+        padding:50px;
+        color:#fff;
+        margin-top:40px;
+}
+.f1 input {
+          width:50%;
+          height:5%;
+          padding:10px;
+}
+.f1 button {
+          padding:20px;
+          border-radius:100px;
+          border:0;
+          background-color: #fabf98;
+          color:#fff;
+
+}
+
+/*  form finished*/
+
+
+.footer {
+          width:100%;
+          background-color: #595959;
+          color:#fff;
+          
+
+}
+.footer-box {
+          width:40%;
+          float:left;
+}
+.footer-box p {
+           float:left;
+           margin-left:10px;
+}
+.footer-box span{
+            float:left;
+            margin-top:20px;
+            margin-left:20px;
+}
+.listing{
+         
+         float:right;
+         
+}
+.listing ul {
+         list-style:none;
+}
+.listing ul li {
+        float:left;
+        margin-right:20px;
+}
